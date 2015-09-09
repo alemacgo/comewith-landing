@@ -375,3 +375,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+.avatars {
+    margin-bottom: 20px;
+}
+
+.name {
+    margin: 0 auto;
+}
+
+.location {
+    margin: 0 0 20px 0;
+    font-size: 14px;
+}
